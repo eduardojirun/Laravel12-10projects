@@ -2,6 +2,8 @@
 [Datatables Laravel](https://yajrabox.com/docs/laravel-datatables/12.0)
 
 ```
+[Github repo](https://github.com/yajra/laravel-datatables)
+
 composer require yajra/laravel-datatables-oracle
 
 // comando para publicar la configuración y los activos
